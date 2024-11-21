@@ -20,16 +20,16 @@ ol {
 }
 /* Section header */
 .section_header_methodology {
-  background-color:#2a4359;
+  background-color:#10298d;
 }
 .header {
   display: flex;  
   align-items: start;
-  background: #2a4359;
+  background: #10298d;
 }
 .header .box {
   flex: 1;
-  background: #2a4359;
+  background: #10298d;
   color: #fff;
   border-radius: 10px;
   margin: 20px 10px;
@@ -51,12 +51,12 @@ ol {
   flex-wrap:wrap;
 }
 .container_buttons_links_header a:hover {
-  color: #2a4359;
+  color: #10298d;
 }
 .container_buttons_links_header btn {
   width: 100px;
   height: 100px;
-  background: #2a4359;
+  background: #10298d;
   color: #fff;
   display: flex;
   justify-content:center;
@@ -64,18 +64,18 @@ ol {
 }
 /* Section methodology */
 .section_body_methodology {
-  background-color:#466fa6;
+  background-color:#10298d;
 }
 .methodology {
   display: flex;  
   align-items: start;
-  background: #466fa6;
+  background: #10298d;
 }
 /* Table with one column */
 .methodology .box_table1 {
   flex: 1;
-  background: #8badd9;
-  color: black;
+  background: #10298d;
+  color: #ffffff;
   border-radius: 10px;
   margin: 10px 10px 10px 10px;
   padding: 15px 15px;
@@ -85,20 +85,20 @@ ol {
 }
 .methodology .box_table1:nth-of-type(1) {
   flex-grow:1;
-  background: #466fa6;
+  background: #10298d;
 }
 .methodology .box_table1:nth-of-type(2) {
   flex-grow:4;
 }
 .methodology .box_table1:nth-of-type(3) {
   flex-grow:1;
-  background: #466fa6;
+  background: #10298d;
 }
 /* Table with two columns */
 .methodology .box_table2 {
   flex: 1;
-  background: #8badd9;
-  color: black;
+  background: #10298d;
+  color: #ffffff;
   border-radius: 10px;
   margin: 10px 10px 10px 10px;
   padding: 15px 15px;
@@ -108,11 +108,11 @@ ol {
 }
 .methodology .box_table2:nth-of-type(1) {
   flex-grow:1;
-  background: #8badd9;
+  background: #10298d;
 }
 .methodology .box_table2:nth-of-type(2) {
   flex-grow:1;
-  background: #8badd9;
+  background: #10298d;
 }
 
 
