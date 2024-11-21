@@ -21,7 +21,7 @@ ul {
   font-size: 400;
 }
 a {
-  color: #333;
+  color: #ffffff;
   text-decoration: none;
 }
 h1,
@@ -38,7 +38,7 @@ img {
 }
 /* Navbar  */
 .section_light_talk_app_navbar {
-  background-color: #f1c435;
+  background-color: #10298d;
 }
 .light_talk_app_navbar {
   display: flex;
@@ -46,18 +46,18 @@ img {
   justify-content: flex-start;
   height: 70px;
   align-items: center;
-  background-color: #f1c435;
+  background-color: #10298d;
   padding: 0 0px;
 }
 .light_talk_app_navbar a {
-  color: #027b63;
+  color: #ffffff;
   padding: 10px 20px;
   margin: 0 5px;
   font-size: 20px;
   text-decoration: none;
 }
 .light_talk_app_navbar a:hover {
-  border-bottom: #027b63 4px solid;
+  border-bottom: #ffffff 4px solid;
 }
 .light_talk_app_navbar ul {
   display: flex;
@@ -67,11 +67,11 @@ img {
   font-weight: 400;
 }
 .text-logo {
-  color: #568c63;
+  color: #ffffff;
 }
 /* Footer  */
 .section_footer {
-  background-color: #f1c435;
+  background-color: #10298d;
 }
 .footer {
   display: flex;
@@ -79,7 +79,7 @@ img {
   justify-content: center;
   height: 70px;
   align-items: center;
-  background-color: #f1c435;
+  background-color: #10298d;
   padding: 0 0px;
 }
 
@@ -98,7 +98,7 @@ img {
     flex-direction: column;
   }
   .light_talk_app_navbar a:hover {
-    color: #568c63;
-    border-bottom: #027b63 2px solid;
+    color: #10298d;
+    border-bottom: #10298d 2px solid;
   }
 }
