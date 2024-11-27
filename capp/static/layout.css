@@ -57,7 +57,7 @@ img {
   text-decoration: none;
 }
 .light_talk_app_navbar a:hover {
-  border-bottom: #10298d 4px solid;
+  border-bottom: #fff 4px solid;
 }
 .light_talk_app_navbar ul {
   display: flex;
