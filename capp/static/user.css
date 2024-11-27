@@ -28,7 +28,7 @@
   
   .register_section_css .container .box:nth-of-type(1) {
     flex-grow: 1;
-    background: #f2a534;
+    background: #10298;
     color: #fff;
     border-radius: 10px;
     margin: 0px 0px;
@@ -38,7 +38,7 @@
   
   .register_section_css .container .box:nth-of-type(2) {
     flex-grow: 3;
-    background: #f26934;
+    background: #10298;
     color: #fff;
     border-radius: 10px;
     margin: 20px 10px;
@@ -48,7 +48,7 @@
   
   .register_section_css .container .box:nth-of-type(3) {
     flex-grow: 1;
-    background: #f2a534;
+    background: #f10298;
     color: #fff;
     border-radius: 10px;
     margin: 0px 0px;
