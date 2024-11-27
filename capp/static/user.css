@@ -1,13 +1,13 @@
 /*Container register header*/
-/*color=light*/
+/*color=dark*/
 .register_section_css {
     display: flex;
-    background: #102981;
+    background: #fff;
   }
   
   .register_section_css .container {
     display: flex;
-    background: #102981;
+    background: #fff;
   }
   
   .register_section_css .container {
@@ -15,7 +15,7 @@
     align-items: start;
     justify-content: space-between;
   }
-  /*color=light*/
+  /*color=dark*/
   .register_section_css .container .box {
     flex: 1;
     background: #102981;
