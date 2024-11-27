@@ -99,6 +99,6 @@ img {
   }
   .light_talk_app_navbar a:hover {
     color: #10298d;
-    border-bottom: #10298d 2px solid;
+    border-bottom: #fff 2px solid;
   }
 }
