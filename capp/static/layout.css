@@ -5,7 +5,7 @@
 * {
   box-sizing: border-box;
   padding: 0;
-  margin: 0;
+  margin: 10;
 }
 body {
   font-family: "Roboto", sans-serif;
@@ -38,7 +38,7 @@ img {
 }
 /* Navbar  */
 .section_light_talk_app_navbar {
-  background-color: #10298d;
+  background-color: #102981;
 }
 .light_talk_app_navbar {
   display: flex;
@@ -46,7 +46,7 @@ img {
   justify-content: flex-start;
   height: 70px;
   align-items: center;
-  background-color: #10298d;
+  background-color: #102981;
   padding: 0 0px;
 }
 .light_talk_app_navbar a {
@@ -71,7 +71,7 @@ img {
 }
 /* Footer  */
 .section_footer {
-  background-color: #10298d;
+  background-color: #102981;
 }
 .footer {
   display: flex;
@@ -79,7 +79,7 @@ img {
   justify-content: center;
   height: 70px;
   align-items: center;
-  background-color: #10298d;
+  background-color: #102981;
   padding: 0 0px;
 }
 
@@ -98,7 +98,7 @@ img {
     flex-direction: column;
   }
   .light_talk_app_navbar a:hover {
-    color: #10298d;
-    border-bottom: #10298d 2px solid;
+    color: #102981;
+    border-bottom: #102981 2px solid;
   }
 }
