@@ -15,7 +15,7 @@
     align-items: start;
     justify-content: space-between;
   }
-  /*color=dark*/
+  /*color=light*/
   .register_section_css .container .box {
     flex: 1;
     background: #102981;
