@@ -38,7 +38,7 @@ img {
 }
 /* Navbar  */
 .section_light_talk_app_navbar {
-  background-color: #102981;
+  background-color: #10298d;
 }
 .light_talk_app_navbar {
   display: flex;
@@ -46,7 +46,7 @@ img {
   justify-content: flex-start;
   height: 70px;
   align-items: center;
-  background-color: #102981;
+  background-color: #10298d;
   padding: 0 0px;
 }
 .light_talk_app_navbar a {
@@ -71,7 +71,7 @@ img {
 }
 /* Footer  */
 .section_footer {
-  background-color: #102981;
+  background-color: #fff;
 }
 .footer {
   display: flex;
@@ -79,7 +79,7 @@ img {
   justify-content: center;
   height: 70px;
   align-items: center;
-  background-color: #102981;
+  background-color: #10298d;
   padding: 0 0px;
 }
 
@@ -98,7 +98,7 @@ img {
     flex-direction: column;
   }
   .light_talk_app_navbar a:hover {
-    color: #102981;
-    border-bottom: #102981 2px solid;
+    color: #10298d;
+    border-bottom: #10298d 2px solid;
   }
 }
