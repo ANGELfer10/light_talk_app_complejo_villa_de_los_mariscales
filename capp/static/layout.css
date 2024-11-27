@@ -98,7 +98,7 @@ img {
     flex-direction: column;
   }
   .light_talk_app_navbar a:hover {
-    color: #fff;
+    color: #10298d;
     border-bottom: #10298d 2px solid;
   }
 }
