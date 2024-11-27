@@ -46,7 +46,7 @@ img {
   justify-content: flex-start;
   height: 70px;
   align-items: center;
-  background-color: #fff;
+  background-color: #10298d;
   padding: 0 0px;
 }
 .light_talk_app_navbar a {
@@ -57,7 +57,7 @@ img {
   text-decoration: none;
 }
 .light_talk_app_navbar a:hover {
-  border-bottom: #ffffff 4px solid;
+  border-bottom: #10298d 4px solid;
 }
 .light_talk_app_navbar ul {
   display: flex;
