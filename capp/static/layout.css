@@ -5,7 +5,7 @@
 * {
   box-sizing: border-box;
   padding: 0;
-  margin: 10;
+  margin: 0;
 }
 body {
   font-family: "Roboto", sans-serif;
@@ -98,7 +98,7 @@ img {
     flex-direction: column;
   }
   .light_talk_app_navbar a:hover {
-    color: #fff;
-    border-bottom: #fff 2px solid;
+    color: #10298d;
+    border-bottom: #10298d 2px solid;
   }
 }
