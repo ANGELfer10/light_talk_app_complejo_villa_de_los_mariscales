@@ -1,7 +1,11 @@
-/* Utilities  */
-p {
-  margin: 0px 0;
-  font-size: 18px;
+/* General Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    line-height: 1.6;
+    background-color: #f9f9f9;
 }
 /* Section header_home */
 .section_header_home {
